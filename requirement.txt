@@ -1,0 +1,8 @@
+ipykernel
+python-dotenv
+anthropic
+httpxpip
+tavily
+chromadb
+voyageai
+mcp

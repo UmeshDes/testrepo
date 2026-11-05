@@ -1,0 +1,5 @@
+Section 1: Intro
+Claude is an AI by Anthropic.
+
+Section 2: RAG
+RAG stands for Retrieval-Augmented Generation.
