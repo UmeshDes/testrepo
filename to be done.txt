@@ -1,0 +1,30 @@
+For each process area identified also add AI Solution to be used, efffort/cost, advantages against traditional solution 
+
+- AI USe case life cycle
+	- Problem Identification and requirement analysis
+		- Before starting AI project, identify the problem that an AI solution will address
+		- Selecting right approach for solution (not all problems will require LLMs)
+		- Assess Feasibility
+			- evaluate available data sources for training and fine tuning
+			- identifying computational & storage requirements
+			- understanding regulatory & ethical considerations	
+	- Data collection & preparation
+		- Identify right datasets, cleaning & normalizing the information and implmenting techniques to reduce bias
+		- 
+	- Model Selection & training
+	- Model Development
+	- Model evaluation & validation
+	- Deployment & integration
+	- Monitoring & maintenance
+- Expectation management with Stakeholders
+
+- Data privacy, security while using LLMs
+- Cost for Token consumption from otimization perspective 
+	- Less cost & more relevant output
+
+
+
+- One hot encoding
+- data normalization
+- regularization method
+- KV Cache Management & Multi Head attention
